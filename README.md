@@ -192,7 +192,7 @@ streamlit run frontend/dashboard.py --server.port 8501
 2. Verás el dashboard principal con métricas en tiempo real
 3. Utiliza la barra lateral para navegar entre secciones
 
-![Dashboard Principal](SIGI1.PNG)
+![Dashboard Principal](SIGI1.png)
 
 ### 2. Crear Nueva Incidencia
 1. Ve a la sección "Nueva Incidencia"
